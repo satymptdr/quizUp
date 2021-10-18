@@ -1,5 +1,10 @@
 # JeoPardySocket
 
+## Live covid dashboard
+| Status        |  Link to Game                                            | Description            | 
+| ------------- | -------------------------------------------------------- | ---------------------- | 
+| :green_heart: | <https://mnnit-jeopardy-socket.herokuapp.com/>  | JeoPardy Multiplayer Game  | 
+
 ## Description
 JeoPardy Interactive Game with socket programming. Multiple room for multiple game session.
 

@@ -1,12 +1,12 @@
-# JeoPardySocket
+# QuizUp
 
-## Live covid dashboard
+## Live at
 | Status        |  Link to Game                                            | Description            | 
 | ------------- | -------------------------------------------------------- | ---------------------- | 
-| :green_heart: | <https://mnnit-jeopardy-socket.herokuapp.com/>  | JeoPardy Multiplayer Game  | 
+| :green_heart: | <https://mnnit-jeopardy-socket.herokuapp.com/>  | QuizUp Multiplayer Game  | 
 
 ## Description
-JeoPardy Interactive Game with socket programming. Multiple room for multiple game session.
+QuizUp Interactive Game with socket programming. Multiple room for multiple game session.
 
 ## How to Start
 Just enter (npm start) in command line
